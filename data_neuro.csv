@@ -1,0 +1,228 @@
+stimulus,Pain Rate,Response,Mean Pain,Time Known,,Sender,Reciever,Know The Goal,Reciever Closeness,Sender Closeness,Sender Believve,Reciever Believe,Sender Life Ex,Reciever Life Ex,Sender Meditation,Reciever Meditation,Sender Problem,Reciever Problem,group_no
+cold,3,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,2,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,0,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,0,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,3.5,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,3,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,1,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,0,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,2,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,1,cold,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,2.5,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+cold,4,warm,1.833333333,,,Ali Owfi,Mohammad AhmadKhani,No,8,7,No,No,No,No,Yes,No,No,No,1
+warm,0,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,No,No,No,No,No,2
+cold,3,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+warm,0,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+warm,0,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+warm,0,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+warm,1,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,3,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,3.5,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+warm,0,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,3,cold,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.625,20,,Amir Hossein Amiri,Mohammad Hossein Amiri,No,9,10,No,No,Yes,Yes,No,No,No,No,2
+cold,2,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,1,cold,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,cold,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,2,cold,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,1,cold,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,1,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,0,cold,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+warm,1,warm,1.916666667,20,,Mohammad Hossein Amiri,Amir Hossein Amiri,Yes,10,9,No,No,Yes,Yes,No,No,No,No,2
+cold,3,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,1,warm,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,2,warm,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+cold,3.5,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+cold,3.5,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+cold,3.5,warm,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,0,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,0,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,1,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+cold,4,warm,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,0.5,cold,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+cold,4,warm,2.166666667,2,,Shabnam Sheykhha,Amin Rakhsha,No,6,7.5,No,No,No,No,No,No,No,No,3
+warm,0,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,0,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,4,warm,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,0,warm,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,3,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,4,warm,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,1,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,3.5,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,4,warm,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,0,warm,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,0.7,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+cold,3,cold,1.933333333,2,,Amin Rakhsha,Shabnam Sheykhha,Yes,7.5,6,No,No,No,No,No,No,No,No,3
+warm,0,warm,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,2,warm,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+warm,2,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,4,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,3,warm,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+warm,2,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+warm,0,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,3,warm,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+warm,1,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,2,warm,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+warm,1,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,No,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,3,cold,1.916666667,2,,Arghavan Zibaei,Reza Ramezanpur,Yes,7,7,Yes,No,Yes,No,No,No,No,No,4
+cold,2,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+cold,4,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+cold,3,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,2,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,4,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+cold,3,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,0,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,3,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+cold,5,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+cold,5,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,0,warm,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,3,cold,2.833333333,2,,Reza RamezanPour,Arghavan Zibaei,Yes,7,7,No,Yes,No,Yes,No,No,No,No,4
+warm,0,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+warm,0,cold,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+warm,0,cold,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,3,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+warm,2,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,3,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,2,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+warm,1,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,3,cold,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+warm,1,warm,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,3,cold,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,3,cold,1.75,7,,Sina Karimi,Ali Ghavampour,Yes,8,8,No,No,No,No,Yes,No,No,No,5
+cold,2,warm,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,1,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,0,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,0,warm,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,0,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,0,warm,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,3,warm,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,2,warm,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,3,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,2,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+warm,0,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,3,cold,1.333333333,7,,Ali Ghavampuor,Sina Kazemi,Yes,8,8,No,No,No,No,No,Yes,No,No,5
+cold,2,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+cold,2,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+cold,1,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,0,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,1,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,1,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+cold,3,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,2,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,2,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+cold,3,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+cold,4,cold,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,1,warm,1.833333333,21,,Ali Bahjati,Amin Bahjati,No,10,9,No,No,Yes,Yes,No,No,No,No,6
+warm,0,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,4,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,3,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,4,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,1,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,1,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,0,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,4,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,4,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,1,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+cold,3,warm,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,0,cold,2.083333333,21,,Amin Bahjati,Ali Bahjati,Yes,9,10,No,No,Yes,Yes,No,No,No,No,6
+warm,0,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,2,warm,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,3,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+warm,1,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+warm,1,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,1,warm,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+warm,1,warm,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+warm,0,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+warm,0,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,1,warm,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,1,warm,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,1,cold,1,0.5,,Mohammad Amir Ahmadian,Parisa Mirzai,No,8,6,No,No,No,No,No,Yes,No,No,7
+cold,2,cold,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,0,cold,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+cold,2,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+cold,2,cold,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,1,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+cold,2,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,1,cold,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+cold,3,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,0,cold,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,0,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+cold,3,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,1,warm,1.416666667,0.5,,Parisa Mirzai,Mohammad Amir Ahmadian,Yes,6,8,No,No,No,No,Yes,No,No,No,7
+warm,0,cold,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+warm,0,cold,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,4,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,4,cold,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,2,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+warm,1,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+warm,1,cold,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,3,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,2,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+warm,1,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,1,cold,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+warm,1,warm,1.666666667,21,,Mahsa Siadati,Amir Reza Siadati,Yes,8,8,Yes,No,Yes,Yes,No,No,No,No,8
+cold,4,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,1,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+cold,4,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,0,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+cold,4,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+cold,5,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,0,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,2,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,1,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+cold,5,cold,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+cold,5,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,0,warm,2.583333333,21,,Amir Reza Siadati,Mahsa Siadati,Yes,8,8,No,Yes,Yes,Yes,No,No,No,No,8
+warm,0,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,2,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,2,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,1,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,1,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,2,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,2.5,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,2.5,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,1,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,1.5,cold,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+cold,3,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,1,warm,1.625,21,,Morteza Yaldai,Mahdi Yaldai,No,9,7,No,Yes,Yes,Yes,No,No,Yes,No,9
+warm,2,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,4,cold,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,4,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,3.5,cold,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,3,cold,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+warm,3,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,2,cold,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+warm,2,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+warm,1,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,2,cold,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+warm,0,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+warm,0,warm,2.208333333,21,,Mahdi Yaldai,Morteza Yaldai,Yes,7,9,Yes,No,Yes,Yes,No,No,No,Yes,9
+cold,3,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+cold,4,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,warm,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+cold,3,warm,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+cold,3,warm,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+cold,3,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,warm,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,cold,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+cold,4,warm,1.666666667,10,,Farbod Ekbatani,Amir Hossein Dehghan Menshadi,No,6,9,No,No,Yes,No,No,No,No,No,10
+warm,0,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,3,cold,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,3,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+warm,0,cold,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,2,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+warm,0,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,3,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,2,cold,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+warm,1,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+cold,2,cold,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
+warm,1,warm,1.416666667,10,,Amir Hossein Dehghan Menshadi,Farbod Ekbatani,Yes,9,6,No,No,No,Yes,No,No,No,No,10
